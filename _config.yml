@@ -1,13 +1,13 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+title: P. Roberto Bakker - Paintings and more
+email: "proberto@soverin.net"
+description: "Paintings and more"
+url: "https://p-robertobakker.github.io"
+baseurl: "/probertoart"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
-github_username:  ""
+github_username:  "p-robertobakker"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://p-robertobakker.github.io/probertoart/gallery/"  
+  - JOURNAL: "https://p-robertobakker.github.io/probertoart/journal/"
+  - ABOUT: "https://p-robertobakker.github.io/probertoart/about/"
 
 # All translation keys
 translations:
