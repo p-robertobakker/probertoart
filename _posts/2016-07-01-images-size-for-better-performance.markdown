@@ -5,8 +5,8 @@ subtitle: "Image format and what Is the Ideal File Size for an Image?"
 active: "journal"
 image:
   feature: "pc008.jpg"
-date: "2016-02-01"
-header-img: "img/postcover/pc008.jpg"
+date: "2022-06-01"
+header-img: "img/DriedRosesSkull.jpg"
 comments: "true"
 ---
 
