@@ -1,12 +1,12 @@
 ---
 layout: "post"
-title: "Multiple Galleries"
-subtitle: "A post with multiple galleries arranged with ISOTOPE"
+title: "Expected"
+subtitle: ""
 active: "journal"
 image:
-  feature: "pc007.jpg"
-date: "2016-02-01"
-header-img: "img/postcover/pc007.jpg"
+  feature: ""
+date: "2022-08-01"
+header-img: "img/Karl1-5_Real.jpg"
 comments: "true"
 gallery1: 
   - image_path: /img/galleries/g01/bg1.jpg
