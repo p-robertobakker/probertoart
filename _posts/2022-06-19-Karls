@@ -1,31 +1,31 @@
 ---
 layout: "post"
-title: "Expected part II"
+title: "Karl part I & II"
 subtitle: ""
 active: "journal"
 image:
   feature: ""
-date: "2022-08-01"
+date: "2021-2022"
 header-img: "img/Karl1-5_Real.jpg"
 comments: "true"
 gallery1: 
-  - image_path: /img/galleries/g01/bg1.jpg
+  - image_path: /img/Karl1.jpg
     image-caption: IMAGE TITLE
     image-copyright: © photorama
-  - image_path: /img/galleries/g01/bg2.jpg
+  - image_path: /img/Karl2.jpg
     image-caption: IMAGE TITLE
     image-copyright: © photorama
-  - image_path: /img/galleries/g01/bg3.jpg
+  - image_path: /img/Karl3.jpg
     image-caption: IMAGE TITLE
     image-copyright: © photorama 
 gallery2: 
-  - image_path: /img/galleries/g02/bg1.jpg
+  - image_path: /img/Karl4.jpg
     image-caption: IMAGE TITLE
     image-copyright: © photorama
-  - image_path: /img/galleries/g02/bg2.jpg
+  - image_path: /img/Karl5.jpg
     image-caption: IMAGE TITLE
     image-copyright: © photorama
-  - image_path: /img/galleries/g02/bg3.jpg
+  - image_path: /img/Karl4_Real
     image-caption: IMAGE TITLE
     image-copyright: © photorama 
 ---
