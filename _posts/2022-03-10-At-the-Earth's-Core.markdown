@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "L. Frank Baum"
+title:      ""
 subtitle:   ""
 active: journal
 image:
