@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "The S"
-subtitle:   "JL"
+title:      ""
+subtitle:   ""
 active: journal
 image:
-  feature: "pc002.jpg"
+  feature: "DriedRosesSkull.jpg"
 date:       2016-03-20
 header-img: "img/DriedRosesSkull.jpg"
 tags: [tag03, tag04]
