@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "MoD"
-subtitle:   "HeMele"
+title:      ""
+subtitle:   ""
 active: journal
 image:
   feature: "DriedRosesSkull.jpg"
