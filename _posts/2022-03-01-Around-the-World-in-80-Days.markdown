@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "Around the World in 80 Days"
-subtitle:   "Jules Verne"
+title:      "A80D"
+subtitle:   "JV"
 active: journal
 image:
-  feature: "pc006.jpg"
+  feature: "DriedRosesSkull.jpg"
 date:       2016-03-01 
-header-img: "img/postcover/pc006.jpg"
+header-img: "img/DriedRosesSkull.jpg"
 tags: [tag03]
 categories: [cat04]
 comments: false
