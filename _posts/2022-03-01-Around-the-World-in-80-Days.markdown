@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "A80D"
-subtitle:   "JV"
+title:      ""
+subtitle:   ""
 active: journal
 image:
   feature: "DriedRosesSkull.jpg"
