@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Attec"
-subtitle:   "EdRiceB"
+title:      "L. Frank Baum"
+subtitle:   ""
 active: journal
 image:
   feature: "DriedRosesSkull.jpg"
