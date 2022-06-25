@@ -78,7 +78,16 @@ images:
 <div id="footer" role="contentinfo">
 		<ul class="soc-icons">
 
-                 {% if site.facebook_username %}
+                 {% if site.mastodon_username %}
+			<li>
+   <a href="https://mastodon.social/{{ site.mastodon_username }}" style="
+color:#dddddd; target="_blank" title="Mastodon">
+                       <i class="fa fa-mastodon"></i>
+                     </span>              
+
+</a></li>
+	{% endif %}
+{% if site.facebook_username %}
 			<li>
    <a href="https://facebook.com/{{ site.facebook_username }}" style="
 color:#dddddd; target="_blank" title="Facebook">
