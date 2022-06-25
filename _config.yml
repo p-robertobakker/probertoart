@@ -4,6 +4,7 @@ email: "proberto@soverin.net"
 description: "Paintings and more"
 url: "https://p-robertobakker.github.io"
 baseurl: "/probertoart"
+mastodon_username: ""
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +16,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   photorama_name
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
