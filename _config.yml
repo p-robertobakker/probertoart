@@ -34,6 +34,7 @@ comments :
 
 # Internal nav
 nav:
+  - HOME: "https://p-robertobakker.github.io/probertoart"
   - GALLERY: "https://p-robertobakker.github.io/probertoart/gallery/"  
   - JOURNAL: "https://p-robertobakker.github.io/probertoart/journal/"
   - ABOUT: "https://p-robertobakker.github.io/probertoart/about/"
