@@ -1,8 +1,8 @@
 body {
   font-family: Georgia, Garamond, serif;
   font-size: 20px;
-  color: #dff0d8;
-  background-color: #000;
+  color: #dff0d8; 
+  text-shadow: 1px 1px 2px black, 0 0 25px #67b847, 0 0 5px #345c24;
 }
 p {
   line-height: 1.5;
@@ -80,6 +80,7 @@ hr.small {
   }
   .navbar-custom .nav li a {
     color: #dff0d8;
+    text-shadow: 1px 1px 2px black, 0 0 25px #67b847, 0 0 5px #345c24;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover{
@@ -146,6 +147,7 @@ hr.small {
 .intro-header .page-heading {
   padding: 100px 0 50px;
   color: #dff0d8;
+  text-shadow: 1px 1px 2px black, 0 0 25px #67b847, 0 0 5px #345c24;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
