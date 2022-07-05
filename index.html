@@ -78,14 +78,7 @@ images:
 <div id="footer" role="contentinfo">
 		<ul class="soc-icons">
 
-                 {% if site.mastodon_username %}
-			<li>
-   <a href="https://mastodon.art/@proberto{{ site.mastodon_username }}" style="
-color:#dff0d8; target="_blank">
-                       <img alt="mastodon" src="img/mastodon.svg">
-                     </span>              
-</a></li>
-	{% endif %}
+                 
 {% if site.facebook_username %}
 			<li>
    <a href="https://facebook.com/{{ site.facebook_username }}" style="
@@ -118,15 +111,16 @@ color:#dff0d8; target="_blank" title="Flickr">
                      </span>
  </a></li>	
      {% endif %}
-                    {% if site.deviantart_username %}
+{% if site.mastodon_username %}
 			<li>
-   <a href="http://{{ site.deviantart_username }}.deviantart.com" style="
-color:#dff0d8; target="_blank" title="DeviantArt">
-<i class="fa fa-deviantart"></i> </span>
-</a></li>	
-    {% endif %}
-                    {% if site.github_username %}
-                <li>
+   <a href="https://mastodon.art/@proberto{{ site.mastodon_username }}" style="
+color:#dff0d8; target="_blank">
+         <img alt="mastodon" src="img/mastodon.svg">
+                     </span>              
+</a></li>
+      {% endif %}
+ {% if site.github_username %}
+                	<li>
    <a href="https://github.com/{{ site.github_username }}" style="
 color:#dff0d8; target="_blank" title="Github">
               <i class="fa fa-github"></i>
