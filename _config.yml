@@ -34,10 +34,10 @@ comments :
 
 # Internal nav
 nav:
-  - HOME: "https://p-robertobakker.github.io/probertoart"
-  - GALLERY: "https://p-robertobakker.github.io/probertoart/gallery/"  
-#  - JOURNAL: "https://p-robertobakker.github.io/probertoart/journal/"
-  - ABOUT: "https://p-robertobakker.github.io/probertoart/about/"
+  - HOME: "https://p-robertobakker.github.io/probertobakker"
+  - GALLERY: "https://p-robertobakker.github.io/probertobakker/gallery/"  
+#  - JOURNAL: "https://p-robertobakker.github.io/probertobakker/journal/"
+  - ABOUT: "https://p-robertobakker.github.io/probertobakker/about/"
 
 # All translation keys
 translations:
