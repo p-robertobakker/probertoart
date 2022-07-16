@@ -80,6 +80,14 @@ images:
 <div id="footer" role="contentinfo">
 		<ul class="soc-icons">
 
+{% if site.instagram_username %}
+			<li>
+   <a href="https://instagram.com/{{ site.instagram_username }}" style="
+color:#dff0d8; target="_blank" title="Instagram">
+                       <i class="fa fa-instagram"></i>
+                     </span>
+</a></li>
+    {% endif %}
 {% if site.mastodon_username %}
 			<li>
    <a href="https://mastodon.art/@proberto{{ site.mastodon_username }}" style="
@@ -104,15 +112,7 @@ color:#dff0d8; target="_blank" title="Twitter">
                      </span>
 </a></li>
     {% endif %}
-{% if site.instagram_username %}
-			<li>
-   <a href="https://instagram.com/{{ site.instagram_username }}" style="
-color:#dff0d8; target="_blank" title="Instagram">
-                       <i class="fa fa-instagram"></i>
-                     </span>
-</a></li>
-    {% endif %}
-                    {% if site.flickr_username %}
+{% if site.flickr_username %}
 			<li>
    <a href="https://flickr.com/photos/{{ site.flickr_username }}" style="
 color:#dff0d8; target="_blank" title="Flickr">
